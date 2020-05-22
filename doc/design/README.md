@@ -7,3 +7,7 @@
 5. 大家都可以備份 gitserver 的內容，這樣可以避免控制權過度集中在某個組織，像是 npm 的手裡。
 6. 要如何避免 gitserver 內容有錯或被串改呢？ 那就加點區塊鏈驗證吧！ (這個等有很多人用這個專案再說吧!)
 
+## 實作方法
+* 可以 fork velociraptor 專案，有很多模組可以修改使用
+    * https://github.com/umbopepato/velociraptor
+    
